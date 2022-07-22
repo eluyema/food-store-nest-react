@@ -1,6 +1,7 @@
 Backend and Frontend project
 
 Backend URL: https://food-store-nest.herokuapp.com/
+
 Frontend URL: https://food-store-client-react.herokuapp.com/
 
 ## How to prepare backend
