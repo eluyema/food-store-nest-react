@@ -11,10 +11,13 @@ Create .env file in folder ./back-end
 You should add mongo db credentials variables or MONGO_URI (look at .env.example) 
 
 ## How to run backend
+```bash
+$ cd back-end
 
-cd ../back-end
-npm i
-npm run start:dev
+$ npm i
+
+$ npm run start:dev
+```
 
 ## How to prepare frontend
 
@@ -24,6 +27,10 @@ You should add servel_url variable (look at .env.example), you can use deployed 
 
 ## How to run frontend
 
-cd ../front-end
-npm i
-npm run start
+```bash
+$ cd front-end
+
+$ npm i
+
+$ npm run start
+```
